@@ -1,5 +1,5 @@
-# Controle-financeiro
-Esse site foi desenvolvido afim de ajudar a ter um melhor controle financeiro em relação aos gastos do mês
+# File-Renamer
+Esse projeto foi criado afim de facilinar na renomeação de muitos arquivos em um determinado diretorio 
 ### Tecnologias 
   - [Python](https://devdocs.io/python/)
 
